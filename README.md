@@ -1,0 +1,1 @@
+# open-source-medallion-spark-delta
